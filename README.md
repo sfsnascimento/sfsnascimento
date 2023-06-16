@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/sfsnascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfsnascimento&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfsnascimento&layout=compact&langs_count=7&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfsnascimento&layout=compact&langs_count=20&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
