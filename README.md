@@ -2,7 +2,7 @@
 - Meus hobbies: filmes, séries, livros...
 - Buscando uma oportunidade como Desenvolvedor Junior...
 - Participei do programa desenvolve do grupo boticário 2023
-- Atualmente participando do Bootcamp Santander Back-end Java
+- Participei do Bootcamp Santander Back-end Java
 <div align="center">
   <a href="https://github.com/sfsnascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfsnascimento&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=false"/>
